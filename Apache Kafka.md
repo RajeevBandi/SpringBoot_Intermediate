@@ -2,31 +2,6 @@
 
 Apache Kafka is an open-source stream-processing platform used for building real-time data pipelines and streaming applications. Kafka is highly scalable, fault-tolerant, and provides real-time data processing capabilities.
 
----
-
-## Table of Contents
-
-1. [What is Apache Kafka?](#what-is-apache-kafka)
-2. [Architecture](#architecture)
-   - [Producer](#producer)
-   - [Consumer](#consumer)
-   - [Brokers](#brokers)
-   - [Zookeeper](#zookeeper)
-3. [Key Concepts](#key-concepts)
-   - [Topic](#topic)
-   - [Partition](#partition)
-   - [Offset](#offset)
-   - [Replication](#replication)
-4. [Use Cases](#use-cases)
-5. [Advantages](#advantages)
-6. [Disadvantages](#disadvantages)
-7. [Best Practices](#best-practices)
-8. [How Kafka Works](#how-kafka-works)
-9. [Kafka vs. Other Messaging Systems](#kafka-vs-other-messaging-systems)
-10. [Conclusion](#conclusion)
-
----
-
 ## What is Apache Kafka?
 
 Apache Kafka is a distributed event streaming platform used for building real-time data pipelines and streaming applications. Kafka allows you to publish, subscribe, store, and process streams of records in real-time.
@@ -36,6 +11,8 @@ It is highly scalable, fault-tolerant, and designed for handling high-throughput
 ---
 
 ## Architecture
+
+![This is a image](https://github.com/RajeevBandi/SpringBoot_Intermediate/blob/main/kafka_architecture.jpg)
 
 ### Producer
 
