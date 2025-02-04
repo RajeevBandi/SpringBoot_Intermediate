@@ -14,7 +14,7 @@ Spring Boot simplifies the integration of RabbitMQ by providing auto-configurati
 ## RabbitMQ Architecture
 RabbitMQ operates based on the **Producer-Exchange-Queue-Consumer** model:
 
-![This is a image](https://raw.githubusercontent.com/RajeevBandi/SpringBoot_Beginner/main/Jdbc_manual_configuration.png)
+![This is a image](https://github.com/RajeevBandi/SpringBoot_Intermediate/blob/main/exchanges-topic-fanout-direct.png)
 
 
 1. **Producer:** The component that sends messages.
