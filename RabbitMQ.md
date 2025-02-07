@@ -211,9 +211,6 @@ curl "http://localhost:8080/send?message=HelloRabbitMQ"
 - **Priority Queues**: Assign priority levels to messages.
 - **Delayed Message Exchange**: Delay message processing for a specific time.
 
-## Conclusion
-This guide demonstrates how to integrate RabbitMQ with Spring Boot for asynchronous messaging. It includes configuring RabbitMQ, sending messages, consuming them, and handling advanced features like acknowledgments, DLQs, and exchanges.
-
 ## References
 - [RabbitMQ Official Documentation](https://www.rabbitmq.com/documentation.html)
 - [Spring AMQP Documentation](https://docs.spring.io/spring-amqp/reference/html/)
